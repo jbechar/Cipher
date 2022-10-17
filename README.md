@@ -6,4 +6,4 @@ You and your pen pal, Vishal, have been exchanging letters for some time now. Re
 In this project, you will use your Python skills to decipher the messages you receive and to encode your own responses! Put your programming skills to the test with these fun cryptography puzzles.
 
 
-Open the JYPNB file to see the code in action!
+Open the JPYNB file to see the code in action!
